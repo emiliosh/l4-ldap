@@ -1,14 +1,14 @@
 {
-    "name": "wells/l4-ldap-ntlm",
+    "name": "emiliosh/l4-ldap",
     "type": "library",
     "description": "An LDAP/Active Directory/NTLM authentication driver for Laravel 4.",
     "keywords": ["laravel", "L4", "LDAP", "Authentication", "Laravel 4", "auth"],
-    "homepage": "https://github.com/wells/l4-ldap-ntlm",
+    "homepage": "https://github.com/emiliosh/l4-ldap",
     "license": "MIT",
     "authors": [
         {
-            "name": "Brian Wells",
-            "email": "wells@users.noreply.github.com"
+            "name": "Emilio Sosa",
+            "email": "emiliosh@users.noreply.github.com"
         }
     ],
     "require": {
